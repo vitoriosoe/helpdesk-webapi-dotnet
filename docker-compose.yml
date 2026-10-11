@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 228ae5dc5eab0c30fa6992c7a8dd595e1f5308b3
 services:
   mysql-db:
     image: mysql:8.0
@@ -28,4 +32,8 @@ services:
         condition: service_healthy
 
 volumes:
+<<<<<<< HEAD
   mysql_data:
+=======
+  mysql_data:
+>>>>>>> 228ae5dc5eab0c30fa6992c7a8dd595e1f5308b3
